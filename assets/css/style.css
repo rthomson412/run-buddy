@@ -375,7 +375,7 @@ header h1 a {
     /*this will be applied on any screen between 768px and 575px*/
     
   }
-}
+} 
 
 /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
 @media screen and (max-width: 575px) {
